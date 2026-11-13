@@ -1,0 +1,12 @@
+{
+  "lead_rows_total": 0,
+  "lead_rows_rejected": 0,
+  "rejections_by_reason": {},
+  "duplicate_lead_rows_merged": 0,
+  "field_warnings": 0,
+  "events_total": 0,
+  "malformed_events": 0,
+  "duplicate_events_dropped": 0,
+  "orphan_events": 0,
+  "unknown_disposition_events": 0
+}
